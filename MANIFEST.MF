@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.feup.mbc.gui.ModBusClient
+Class-Path: jamod.jar
+
